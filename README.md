@@ -1,3 +1,6 @@
+# AWS Amplify 
+AWS Amplify provides a Git-based CI/CD workflow for building, deploying, and hosting single-page web applications or static sites with serverless backends. Upon connecting to a Git repository, Amplify determines the build settings for both the frontend framework and any serverless backend resources configured with the Amplify CLI, and automatically deploys updates with every code commit.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
